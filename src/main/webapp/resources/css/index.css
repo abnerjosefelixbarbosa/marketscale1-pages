@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+h1 {
+	color: #CD5C5C;
+}
